@@ -28,4 +28,4 @@ Visualizes the graph and the shortest path using NetworkX and Matplotlib.
 5. Google Maps URL Generation:
 Generates a URL for Google Maps to display the route and opens it in the default web browser.
 
-https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/graph_visualization.png
+![User Interface](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/raw/main/images/user_interface.png)
