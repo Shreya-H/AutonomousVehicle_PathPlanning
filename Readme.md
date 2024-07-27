@@ -32,15 +32,15 @@ This Python script demonstrates path planning for a given location using the Goo
 ### How it works
 
 1. Fetches nearby places using the Google Places API.
-[Nearby places](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/nearby_places.png)
+[Nearby places](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/Nearby_places.png?raw=true.png)
 2. Creates a graph with locations as nodes and distances as edge weights.
-[Location_Graph](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/pathfinding_graph.png)
-3. Applies the A* search algorithm to find the shortest path between the start and goal nodes.
-[route_summary](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/user_interface_2.png)
-4. Visualizes the graph and highlights the shortest path.
 [Graph Visualization](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/graph_visualization.png)
+3. Applies the A* search algorithm to find the shortest path between the start and goal nodes.
+[route_summary](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/Route_summary.png?raw=true.png)
+4. Visualizes the graph and highlights the shortest path.
+[Location_Graph](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/Location_graph.png?raw=true.png)
 5. Generates a URL for Google Maps to display the route and opens it in the default web browser.
-[google_maps_route](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/route_found_map.jpg)
+[google_maps_route](https://github.com/Shreya-H/AutonomousVehicle_PathPlanning/blob/main/images.txt/googlemapsroute.jpg?raw=true.jpg)
 
 
 
